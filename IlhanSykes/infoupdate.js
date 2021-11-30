@@ -1,5 +1,5 @@
 [ 
-{"ilhansykes" : "⚡ *SYKES BOT UPDATE* ⚡
+{"ilhansykes" : "⚡ *AGAMZ BOT UPDATE* ⚡
 ```Version : 7.0 beta```
 ```Update Date : Monday, 10 Oktober 2021 | 23:00 WIB```
 ```Total Features : 265 ```

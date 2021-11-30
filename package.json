@@ -1,7 +1,7 @@
 {
-  "name": "SykesBot",
+  "name": "AgamzBot",
   "version": "5.0.0",
-  "description": "SykesBot By HannSykes",
+  "description": "AgamzBot By Agamzxzy",
   "main": "index.js",
   "directories": {
     "lib": "lib"
